@@ -16,5 +16,5 @@ For use the script you need follow these rules:
 
 New versions is comming...
 
-- 0.0.1
--- In this version only work for ".MP4" files in the same folder.
+- Version 0.0.1
+> In this version only work for ".MP4" files in the same folder.
