@@ -1,6 +1,10 @@
 # About
 
-This is a simple script write in python for converting ".MP4" files with have audio stereo in audio mono.
+- This is a simple script write in python for converting ".MP4" files with have audio stereo in audio mono.
+
+## Requiriments
+- Python 3.X
+- FFMPEG - Most Recent
 
 ## How to use
 
